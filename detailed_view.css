@@ -1,0 +1,39 @@
+.bg_canatiner{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 160vh;
+    background-size: cover;
+}
+.heading{
+    font-family:"Roboto" ;
+    font-weight: bold;
+    font-size:  35px;
+    color: white;
+    padding: 25px;
+}
+.bg_canatiner_card{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top-left-radius:8px;
+    border-radius: 10px;
+    margin: 15px;
+}
+.main_heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+}
+.paragrph{
+    font-family: "RSoboto";
+    font-size: 18px;
+    color: black;
+    padding :10px;
+    
+    
+    
+    
+    
+}
